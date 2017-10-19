@@ -1,0 +1,2 @@
+# rpi
+Register priestorových informácií
